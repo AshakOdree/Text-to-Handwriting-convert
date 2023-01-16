@@ -2,7 +2,7 @@
 
 This is a simple web application that converts text input into handwriting. It uses a pre-trained model built with TensorFlow.js to generate the handwriting.
 
-You can find a demo of the application at [https://ashakodree.github.io/text-to-handwriting-master/](https://ashakodree.github.io/text-to-handwriting-master/).
+You can find a demo of the application at [https://ashakodree.github.io/text-to-handwriting-convert/](https://ashakodree.github.io/text-to-handwriting-convert/).
 
 ## 📌How to use
 1. Go to this website ☞ [https://ashakodree.github.io/text-to-handwriting-master/](https://ashakodree.github.io/text-to-handwriting-master/)
