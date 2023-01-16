@@ -469,3 +469,49 @@ input[type='file']::before {
     margin-top: 10px;
   }
 }
+
+/* for icon */
+.social-links-container {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+}
+
+.social-links-container {
+  position: fixed;
+  bottom: 0;
+}
+
+.social-links a {
+  margin-left: 0;
+  margin-right: 0;
+  font-size: 35px;
+  text-decoration: none;
+  color: black;
+}
+
+
+
+.fab.fa-facebook {
+  color: rgb(1, 101, 225);
+}
+
+
+
+.fab.fa-github {
+  color: rgb(247, 241, 241);
+}
+
+
+
+.fab.fa-instagram {
+  color: rgb(214,41,118);
+}
+
+
+
+.fab.fa-linkedin{
+  color: rgb(10, 102, 194);
+}
+
