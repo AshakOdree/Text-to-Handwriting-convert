@@ -478,10 +478,6 @@ input[type='file']::before {
     transform: translate(-50%, -50%);
 }
 
-.social-links-container {
-  position: fixed;
-  bottom: 0;
-}
 
 .social-links a {
   margin-left: 0;
