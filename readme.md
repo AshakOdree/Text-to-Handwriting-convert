@@ -2,10 +2,10 @@
 
 This is a simple web application that converts text input into handwriting. It uses a pre-trained model built with TensorFlow.js to generate the handwriting.
 
-You can find a demo of the application at [https://ashakodree.github.io/text-to-handwriting-convert/](https://ashakodree.github.io/text-to-handwriting-convert/).
+You can find a demo of the application at [https://ashak-odree.github.io/text-to-handwriting-convert/](https://ashak-odree.github.io/text-to-handwriting-convert/).
 
 ## 📌How to use
-1. Go to this website ☞ [https://ashakodree.github.io/text-to-handwriting-convert/](https://ashakodree.github.io/text-to-handwriting-convert/)
+1. Go to this website ☞ [https://ashak-odree.github.io/text-to-handwriting-convert/](https://ashak-odree.github.io/text-to-handwriting-convert/)
 2. Copy your text and past it on the input page.
 3. Selct your handwriting font and also you can upload your own handwriting font.
 4. Customize your Font size, Ink color, Page size, Effects and Resolution.
